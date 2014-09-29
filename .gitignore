@@ -1,3 +1,6 @@
 /vendor
-
+.env.*.php
+.env.php
+.DS_Store
+Thums.db
 tests/_output/*
